@@ -1,30 +1,32 @@
-📊 Excel Projects Repository
+📊 Excel Projects
 
-This repository contains Excel-based projects that I have completed during my internship journey. These projects demonstrate my skills in data cleaning, analysis, and dashboard creation using Microsoft Excel.
+This repository contains Excel-based data analysis projects completed during my internship. It demonstrates hands-on experience in data cleaning, data analysis, KPI tracking, and dashboard development using Microsoft Excel.
 
-📁 Project Included
-🔹 Customer Feedback Solution
-
-This project focuses on analyzing customer feedback data to generate meaningful insights and support decision-making.
-
-📌 Key Highlights:
-Data cleaning and preprocessing
-Customer rating and sentiment analysis
-KPI creation (e.g., % Positive Feedback)
-Dashboard creation using charts and Pivot Tables
-Department-wise performance analysis
-📎 Files Included
-Customer_Feedback-Solution.xlsx – Complete Excel workbook with:
-Cleaned dataset
-Calculations and formulas
-Pivot tables
-Dashboard
-🎯 Objective
-
-To transform raw customer feedback data into actionable insights and present it through an interactive and easy-to-understand Excel dashboard.
-
-🛠 Tools Used
+📁 Project Title
+🔹 Customer Feedback Analysis & Dashboard
+🛠 Skills & Tools Used
 Microsoft Excel
-Pivot Tables
-Charts & Graphs
-Data Cleaning Techniques
+Data Cleaning & Data Preprocessing
+Data Analysis
+Pivot Tables & Pivot Charts
+Power Pivot
+Dashboard Design
+KPI Metrics
+Conditional Formatting
+📌 Project Description
+
+This project analyzes customer feedback data to identify trends, measure customer satisfaction, and evaluate department-wise performance.
+
+📈 Key Features
+Cleaned and structured raw data for analysis
+Created calculated columns (e.g., Sentiment Analysis based on Ratings)
+Developed KPI metrics such as % Positive Feedback
+Built interactive dashboards using Pivot Tables and Charts
+Performed department-wise and category-wise analysis
+Improved data accuracy and reporting efficiency
+📂 Project File
+📄 Customer_Feedback-Solution.xlsx – Excel workbook containing dataset, analysis, and dashboard
+🎯 Outcome
+Generated actionable insights from customer feedback data
+Enabled better decision-making through visual dashboards
+Improved understanding of customer satisfaction trends
