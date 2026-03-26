@@ -39,9 +39,7 @@ To analyze customer feedback and identify patterns, trends, and key improvement 
 
 ## 📸 Dashboard Preview  
 
-![Customer Feedback][Images](Dashboard.png)
-
-> 📌 Upload your screenshot as **screenshot.png** in the same repository folder.
+![Customer Feedback][Images](**Dashboard.png**)
 
 ---
 
