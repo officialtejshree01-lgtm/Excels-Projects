@@ -69,7 +69,7 @@ The dataset includes:
 ---
 
 ## 📁 Project Structure  
-Customer-Feedback-Analysis/
+Services/
 │── Customer Feedback Analysis.xlsx
 │── dashboard.png
 │── README.md
