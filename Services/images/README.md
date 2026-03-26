@@ -69,11 +69,15 @@ The dataset includes:
 ---
 
 ## 📁 Project Structure  
+Customer-Feedback-Analysis/
+│── Customer Feedback Analysis.xlsx
+│── dashboard.png
+│── README.md
 
 ---
 
 ## 🙋‍♀️ Author  
-**Tej**  
+**Tejshree**  
 - Aspiring MIS / Data Analyst  
 
 ---
