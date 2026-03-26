@@ -1,6 +1,6 @@
 # 📊 Excel Projects
 
-This repository contains Excel-based projects that I have completed during my (Speedup Infortech, Pune) internship journey. These projects demonstrate my skills in data cleaning, analysis, and dashboard creation using Microsoft Excel.
+This repository contains Excel-based projects that I have completed during my (Speedup Infotech, Pune) internship journey. These projects demonstrate my skills in data cleaning, analysis, and dashboard creation using Microsoft Excel.
 
 ---
 
