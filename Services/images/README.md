@@ -1,5 +1,7 @@
 # 📊 Customer Feedback Analysis (Excel Project)
 
+---
+
 ## 📊 Dashboard Screenshot  
 
 ![Customer Feedback Dashboard](dashboard.png)
