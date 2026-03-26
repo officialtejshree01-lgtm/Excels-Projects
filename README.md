@@ -13,7 +13,6 @@ Power Pivot
 Dashboard Design
 KPI Metrics
 Conditional Formatting
-
 📌 Project Description
 
 This project analyzes customer feedback data to identify trends, measure customer satisfaction, and evaluate department-wise performance.
