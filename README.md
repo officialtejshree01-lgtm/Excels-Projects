@@ -1,32 +1,41 @@
-📊 Excel Projects
+# 📊 Excel Projects
 
-This repository contains Excel-based data analysis projects completed during my internship. It demonstrates hands-on experience in data cleaning, data analysis, KPI tracking, and dashboard development using Microsoft Excel.
+This repository contains Excel-based projects that I have completed during my internship journey. These projects demonstrate my skills in data cleaning, analysis, and dashboard creation using Microsoft Excel.
 
-📁 Project Title
-🔹 Customer Feedback Analysis & Dashboard
-🛠 Skills & Tools Used
-Microsoft Excel
-Data Cleaning & Data Preprocessing
-Data Analysis
-Pivot Tables & Pivot Charts
-Power Pivot
-Dashboard Design
-KPI Metrics
-Conditional Formatting
-📌 Project Description
+---
 
-This project analyzes customer feedback data to identify trends, measure customer satisfaction, and evaluate department-wise performance.
+## 📁 Project Included
 
-📈 Key Features
-Cleaned and structured raw data for analysis
-Created calculated columns (e.g., Sentiment Analysis based on Ratings)
-Developed KPI metrics such as % Positive Feedback
-Built interactive dashboards using Pivot Tables and Charts
-Performed department-wise and category-wise analysis
-Improved data accuracy and reporting efficiency
-📂 Project File
-📄 Customer_Feedback-Solution.xlsx – Excel workbook containing dataset, analysis, and dashboard
-🎯 Outcome
-Generated actionable insights from customer feedback data
-Enabled better decision-making through visual dashboards
-Improved understanding of customer satisfaction trends
+### 📌 Customer Feedback Solution
+This project focuses on analyzing customer feedback data to generate meaningful insights.
+
+**Key Features:**
+- Data cleaning and preprocessing  
+- Customer rating analysis  
+- Sentiment classification (Positive/Negative)  
+- KPI calculations (e.g., % Positive Feedback)  
+- Dashboard creation for visualization  
+
+---
+
+## 📎 Files Attached
+
+- `Customer_Feedback-Solution.xlsx` → Complete Excel workbook with data, formulas, and dashboard  
+
+---
+
+## 🎯 Purpose
+
+The goal of this repository is to:
+- Showcase practical Excel skills  
+- Demonstrate real-world data analysis tasks  
+- Build a strong portfolio for data analyst roles  
+
+---
+
+## 🛠 Tools Used
+
+- Microsoft Excel  
+- Pivot Tables  
+- Charts & Dashboards  
+- Formulas & Functions  
