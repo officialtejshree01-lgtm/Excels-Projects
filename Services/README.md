@@ -39,7 +39,7 @@ To analyze customer feedback and identify patterns, trends, and key improvement 
 
 ## 📸 Dashboard Preview  
 
-![Customer Feedback][Images](**Dashboard.png**)
+![Services](Images/**Dashboard**.png)
 
 ---
 
