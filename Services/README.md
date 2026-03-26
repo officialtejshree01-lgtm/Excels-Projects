@@ -45,7 +45,6 @@ The dataset includes the following fields:
 
 ![Dashboard Screenshot](images/dashboard.png)
 
-> 📌 *Note: Upload your screenshot in the `images` folder and name it `dashboard.png`*
 
 ---
 
