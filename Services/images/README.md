@@ -69,3 +69,15 @@ The dataset includes:
 ---
 
 ## 📁 Project Structure  
+
+---
+
+## 🙋‍♀️ Author  
+**Tej**  
+- Aspiring MIS / Data Analyst  
+
+---
+
+## ⭐ Feedback  
+If you found this project useful, please ⭐ the repository and share your feedback!
+
