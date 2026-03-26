@@ -1,74 +1,68 @@
 # 📊 Customer Feedback Analysis (Excel Project)
 
-This project presents a comprehensive analysis of customer feedback data for a service-based company using Microsoft Excel. It focuses on transforming raw data into meaningful insights to improve customer satisfaction and business performance.
+This project focuses on analyzing customer feedback data for a service company using Microsoft Excel. It demonstrates data cleaning, analysis, KPI creation, and dashboard visualization to derive actionable insights.
 
 ---
 
-## 🏢 Domain  
-**Customer Analytics & Business Intelligence**
+## 📌 Project Overview
+
+The objective of this project is to:
+- Analyze customer satisfaction across different service departments  
+- Identify key problem areas  
+- Provide insights to improve customer experience  
 
 ---
 
-## 🎯 Objective  
-To analyze customer feedback and identify patterns, trends, and key improvement areas across different service departments.
+## 📁 Project Files
 
----
-
-## 🛠 Tools & Technologies  
-
-- Microsoft Excel  
-- Pivot Tables & Pivot Charts  
-- Power Pivot  
-- Data Cleaning & Preprocessing  
-- KPI Metrics  
-- Conditional Formatting  
-- Dashboard Design  
-
----
-
-## 📌 Key Features  
-
-- Cleaned and structured raw dataset for accurate analysis  
-- Performed **Sentiment Analysis** using customer ratings  
-- Created KPIs like **% Positive Feedback**  
-- Developed an **interactive dashboard** for visualization  
-- Analyzed performance **department-wise and category-wise**  
-- Improved reporting clarity and decision-making support  
-
----
-
-## 📸 Dashboard Preview  
-
-<img src="Services/Images/Dashboard.png" width="700"/>
+- `Customer Feedback Analysis.xlsx` → Complete Excel workbook with dataset, analysis, and dashboard  
+- Dashboard Screenshot:  
 
 <p align="center">
-  <img src="Services/Images/Dashboard.png" width="700"/>
+  <img src="Services/Images/Dashboard.png" width="750"/>
 </p>
 
 ---
 
+## 🔍 Key Features
 
-## 📂 Project Files  
-
-- 📄 Customer Feedback Analysis.xlsx – Dataset, analysis, and dashboard  
-
----
-
-## 📈 Key Insights  
-
-- Identified low-performing departments based on feedback  
-- Highlighted areas needing service improvement  
-- Tracked customer satisfaction trends  
-- Enabled data-driven decision-making  
+- ✅ Data Cleaning (removing duplicates, formatting text)  
+- ✅ Customer Rating Analysis (1–5 scale)  
+- ✅ Sentiment Analysis (Positive / Negative classification)  
+- ✅ KPI Metrics (e.g., % Positive Feedback, Average Rating)  
+- ✅ Department-wise Performance Analysis  
+- ✅ Interactive Dashboard using charts and visuals  
 
 ---
 
-## 🚀 Outcome  
+## 📊 Dashboard Insights
 
-This project demonstrates how Excel can be effectively used for customer feedback analysis, KPI tracking, and dashboard reporting to support business decisions.
+- Overall customer satisfaction trends  
+- Department-wise performance comparison  
+- Identification of low-performing areas  
+- Data-driven insights for management decision-making  
 
 ---
 
-## 📬 Contact  
+## 🎯 Tools & Skills Used
 
-Feel free to connect with me for any queries or collaboration opportunities.
+- Microsoft Excel  
+- Pivot Tables & Pivot Charts  
+- Data Cleaning Techniques  
+- Excel Formulas & Functions  
+- Dashboard Design  
+
+---
+
+## 🚀 Purpose
+
+This project is part of my internship learning journey and aims to:
+- Showcase my Excel and data analysis skills  
+- Build a strong data analyst portfolio  
+- Solve real-world business problems using data  
+
+---
+
+## 📬 Contact
+
+Feel free to connect with me for feedback or opportunities!
