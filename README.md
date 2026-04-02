@@ -1,43 +1,110 @@
-# 📊 Excel Projects
+# 📊 Excel Projects Portfolio
 
-This repository contains Excel-based projects that I have completed during my (Speedup Infotech, Pune) internship journey. These projects demonstrate my skills in data cleaning, analysis, and dashboard creation using Microsoft Excel.
+## 📌 Overview
+This repository showcases a collection of **Excel-based data analysis and dashboard projects** developed across multiple domains including **Banking & Financial Services**, **Retail & Supply Chain**, and **Customer Experience**.
 
----
-
-## 📁 Project Included
-
-### 📌 Customer Feedback Solution
-This project focuses on analyzing customer feedback data to generate meaningful insights.
-
-**Key Features:**
-- Data cleaning and preprocessing  
-- Customer rating analysis  
-- Sentiment classification (Positive/Negative)  
-- KPI calculations (e.g., % Positive Feedback)  
-- Dashboard creation for visualization  
+These projects demonstrate skills in **data cleaning, transformation, analysis, and dashboard creation** using Microsoft Excel.
 
 ---
 
-## 📎 Files Attached
+# 🏦 1. Bank Customer Loan Tracker
+### 📌 Domain: Banking & Financial Services
 
-## 📂 Files Attached  
+## 🔍 Project Description
+An Excel dashboard designed to track **loan applications, approval rates, and customer risk profiles** to support decision-making in banking operations.
 
-- 📊 [Customer Feedback Analysis (Excel File)](Services/Customer%20Feedback%20Analysis.xlsx) → Complete Excel workbook with data, formulas, and dashboard  
-
----
-
-## 🎯 Purpose
-
-The goal of this repository is to:
-- Showcase practical Excel skills  
-- Demonstrate real-world data analysis tasks  
-- Build a strong portfolio for data analyst roles  
+## 🎯 Key Features
+- Loan Approval Rate Analysis  
+- Credit Score Impact on Approvals  
+- Risk Categorization (High / Normal)  
+- Region-wise Loan Distribution  
+- Interactive Dashboard with Slicers  
 
 ---
 
-## 🛠 Tools Used
+# 📦 2. Retail Store Inventory Management
+### 📌 Domain: Retail / Inventory & Supply Chain
 
+## 🔍 Project Description
+An Excel-based inventory dashboard to monitor **stock levels, identify low-stock items, and analyze inventory value across stores and suppliers**.
+
+## 🎯 Key Features
+- Total Inventory Value Tracking  
+- Low Stock & Out-of-Stock Alerts  
+- Category-wise Stock Analysis  
+- Supplier-wise Contribution  
+- Restock Planning Support  
+
+---
+
+# 😊 3. Customer Feedback Analysis
+### 📌 Domain: Customer Experience / Service Quality
+
+## 🔍 Project Description
+An Excel dashboard to analyze **customer feedback, satisfaction levels, and sentiment trends** across different service departments.
+
+## 🎯 Key Features
+- Average Customer Rating  
+- Sentiment Analysis (Positive / Neutral / Negative)  
+- Department-wise Performance  
+- Region-wise Feedback Insights  
+- Interactive Filters (Slicers)  
+
+---
+
+## 🛠️ Tools & Skills Used
 - Microsoft Excel  
-- Pivot Tables  
-- Charts & Dashboards  
-- Formulas & Functions  
+- Data Cleaning & Transformation  
+- Pivot Tables & Charts  
+- Conditional Formatting  
+- Excel Formulas (IF, COUNTIF, SUM, AVERAGE, XLOOKUP)  
+- Dashboard Design & KPI Metrics  
+
+---
+
+## 📁 Files Included
+- `Bank Customer Loan Tracker.xlsx`  
+- `Retail Store Inventory Management.xlsx`  
+- `Customer Feedback Analysis.xlsx`  
+- `README.md`  
+- `screenshots/` (project dashboard images)  
+
+---
+
+## 🖼️ Project Previews
+
+### 🏦 Loan Tracker Dashboard
+![Loan Tracker](screenshots/loan_tracker.png)
+
+### 📦 Inventory Dashboard
+![Inventory Dashboard](screenshots/inventory_dashboard.png)
+
+### 😊 Customer Feedback Dashboard
+![Customer Feedback](screenshots/feedback_dashboard.png)
+
+> 📌 Upload screenshots in a folder named `screenshots` and update file names accordingly.
+
+---
+
+## 🚀 How to Use
+1. Download any Excel project file  
+2. Open in Microsoft Excel  
+3. Click **Data → Refresh All**  
+4. Use slicers to explore insights  
+
+---
+
+## 💡 Future Enhancements
+- Power BI versions of all dashboards  
+- Automated data refresh using Power Query  
+- Advanced analytics and predictive models  
+
+---
+
+## 👩‍💻 Author
+**Tejshree**
+
+---
+
+## ⭐ Support
+If you like these projects, give this repository a ⭐ and share your feedback!
