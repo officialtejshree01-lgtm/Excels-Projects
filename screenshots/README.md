@@ -4,13 +4,13 @@
 # 🖼️ Dashboard Screenshots
 
 ## 🏦 Loan Tracker Dashboard
-![Loan Tracker](screenshots/loan_tracker.png)
+![screenshots](loan_tracker.png)
 
 ## 📦 Inventory Dashboard
-![Inventory Dashboard](screenshots/inventory_dashboard.png)
+![screenshots](inventory_dashboard.png)
 
 ## 😊 Customer Feedback Dashboard
-![Customer Feedback](screenshots/feedback_dashboard.png)
+![screenshots](feedback_dashboard.png)
 
 ---
 
