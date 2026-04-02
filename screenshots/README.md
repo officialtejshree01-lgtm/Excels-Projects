@@ -56,7 +56,7 @@ A dashboard focused on managing inventory levels, tracking stock movement, and i
 ---
 
 ## 🖼️ Dashboard Screenshots
-![Excel Dashboards](screenshot.png)
+![screenshot](screenshot.png)
 
 > 📌 This repository contains screenshots of all the above Excel dashboards.
 
@@ -90,8 +90,9 @@ A dashboard focused on managing inventory levels, tracking stock movement, and i
 
 ## 👩‍💻 Author
 **Tejshree**  
+🔗 Email: *official.tejshree01@gmail.com*  
 🔗 LinkedIn: https://www.linkedin.com/in/tejshree-t  
-🔗 GitHub: https://github.com/officialtejshree01-lgtm  
+🔗 GitHub: https://github.com/officialtejshree01-lgtm
 
 ---
 
