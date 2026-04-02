@@ -1,25 +1,24 @@
 # 📦 Retail Store Inventory Management (Excel Dashboard)
 
 ## 📌 Project Overview
-This project is an **Excel-based Inventory Management Dashboard** developed for a **Banking & Financial Services company** to manage and monitor retail inventory efficiently.  
-
-It enables tracking of stock levels, identification of low-stock items, and analysis of inventory value to support better operational decisions.
+This project is an **Excel-based Inventory Management Dashboard** developed for a **Retail / Inventory & Supply Chain company**.  
+It helps track product stock levels, identify low-stock items, monitor inventory value, and support efficient restocking decisions.
 
 ---
 
 ## 🎯 Objectives
-- Track **inventory levels across products and stores**
+- Track **product inventory levels**
 - Identify **low stock and out-of-stock items**
-- Monitor **category-wise stock value**
-- Analyze **supplier-wise inventory contribution**
-- Enable **efficient and timely restocking decisions**
+- Monitor **category-wise inventory value**
+- Analyze **supplier and store performance**
+- Automate **reorder alerts and stock updates**
 
 ---
 
 ## 🛠️ Tools & Skills Used
 - Microsoft Excel  
 - Data Cleaning & Transformation  
-- Pivot Tables & Charts  
+- Pivot Tables & Pivot Charts  
 - Conditional Formatting  
 - Excel Formulas (IF, COUNTIF, SUM, XLOOKUP)  
 - Dashboard Design & KPI Metrics  
@@ -27,12 +26,12 @@ It enables tracking of stock levels, identification of low-stock items, and anal
 ---
 
 ## 📂 Dataset Description
-The dataset contains:
-- **Product Information** → Product Name, Category  
-- **Inventory Details** → Quantity in Stock, Reorder Level  
-- **Supplier Information** → Supplier Name  
-- **Store Locations** → Inventory distribution across stores  
-- **Cost Details** → Unit Cost and Total Value  
+The dataset includes:
+- **Product Details** → Product name, category  
+- **Stock Information** → Quantity in stock, reorder level  
+- **Supplier Data** → Supplier names  
+- **Store Locations** → Inventory distribution  
+- **Cost Data** → Unit cost and total stock value  
 
 ---
 
@@ -40,10 +39,10 @@ The dataset contains:
 - Removed duplicates using **Product ID**
 - Cleaned Product Name, Category, and Supplier fields
 - Handled missing values (replaced with "Unknown")
-- Converted numeric columns into proper format
-- Created calculated fields:
+- Converted numeric fields (Stock, Cost)
+- Created calculated columns:
   - **Total Value (₹)** = Quantity × Unit Cost  
-  - **Stock Status** (Low Stock / In Stock)  
+  - **Stock Status** (Low Stock / In Stock / Out of Stock)  
   - **Reorder Flag**  
 
 ---
@@ -51,18 +50,19 @@ The dataset contains:
 ## 📊 Dashboard Features
 - 📌 **Total Inventory Value (₹)**
 - 📌 **Low Stock & Out-of-Stock Alerts**
-- 📌 **Category-wise Stock Value Analysis**
-- 📌 **Supplier-wise Contribution**
-- 📌 **Top Store by Inventory Value**
-- 📌 **Interactive Slicers for filtering**
+- 📌 **Category-wise Stock Value (Bar Chart)**
+- 📌 **Supplier Contribution (Pie Chart)**
+- 📌 **Restock Trend Analysis (Line Chart)**
+- 📌 **Interactive Slicers (Category, Supplier, Store)**
 
 ---
 
 ## 📈 Key Insights
-- Identified products requiring **urgent restocking**
-- Highlighted categories contributing the most to inventory value
-- Evaluated supplier performance based on inventory share
-- Detected store locations with highest stock value
+- Identified products that require **urgent restocking**
+- Highlighted **top-performing categories** by stock value
+- Analyzed **supplier contribution to inventory**
+- Detected **overstock and understock situations**
+- Enabled better **inventory planning and cost control**
 
 ---
 
@@ -73,9 +73,9 @@ The dataset contains:
 
 ## 🚀 How to Use
 1. Download the Excel file  
-2. Open it in Microsoft Excel  
+2. Open in Microsoft Excel  
 3. Click **Data → Refresh All**  
-4. Use slicers to explore insights dynamically  
+4. Use slicers to filter and explore insights  
 
 ---
 
@@ -87,10 +87,10 @@ The dataset contains:
 ---
 
 ## 💡 Future Enhancements
-- Power BI dashboard version  
+- Power BI interactive dashboard  
 - Automated restock alerts  
-- Inventory demand forecasting  
-- Integration with real-time data sources  
+- Supplier performance scoring  
+- Inventory forecasting model  
 
 ---
 
