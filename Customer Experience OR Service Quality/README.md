@@ -1,79 +1,87 @@
 # 📊 Customer Feedback Analysis (Excel Dashboard)
 
 ## 📌 Project Overview
-This project is an **Excel-based Customer Feedback Analysis Dashboard** developed for a **Banking & Financial Services company**.  
-It helps analyze customer feedback, measure satisfaction levels, and provide actionable insights to improve service quality.
+This project is an **Excel-based Customer Feedback Analysis Dashboard** developed for the **Customer Experience / Service Quality domain**.  
+It helps organizations analyze customer feedback, identify satisfaction trends, and improve overall service quality through data-driven insights.
 
 ---
 
 ## 🎯 Objectives
-- Analyze **customer feedback ratings**
-- Identify **service improvement areas**
-- Measure **overall customer satisfaction**
-- Perform **sentiment analysis**
-- Enable **data-driven decision-making**
+- Analyze **customer feedback data** effectively  
+- Measure **customer satisfaction levels**  
+- Identify **common issues and complaint areas**  
+- Track **feedback trends over time**  
+- Provide actionable insights to improve **customer experience**
 
 ---
 
 ## 🛠️ Tools & Skills Used
 - Microsoft Excel  
 - Data Cleaning & Transformation  
-- Pivot Tables & Charts  
+- Pivot Tables & Pivot Charts  
 - Conditional Formatting  
-- Excel Formulas (IF, COUNTIF, AVERAGE)  
-- Dashboard Design & KPI Metrics  
+- Excel Functions (IF, COUNTIF, AVERAGE, XLOOKUP, etc.)  
+- Dashboard Design & Data Visualization  
 
 ---
 
 ## 📂 Dataset Description
 The dataset includes:
-- **Customer Details** → Customer ID, Name  
-- **Department** → Sales, Support, Delivery, etc.  
-- **Feedback Rating** → Scale (1–5)  
-- **Feedback Comments** → Customer feedback text  
-- **Region** → Customer location  
+- **Customer ID** → Unique customer identifier  
+- **Feedback ID** → Unique feedback entry  
+- **Feedback Date** → Date of submission  
+- **Rating (1–5)** → Customer satisfaction score  
+- **Feedback Category** → Service, Product, Support, etc.  
+- **Comments** → Customer remarks  
+- **Response Status** → Resolved / Pending  
+- **Region / Location** → Customer location  
 
 ---
 
 ## 🔄 Data Processing Steps
-- Removed duplicates using **Customer_ID**
-- Cleaned text fields (Name, Department, Region)
-- Standardized feedback entries
-- Converted Rating column to numeric format
+- Removed duplicate entries using **Feedback ID**  
+- Cleaned and standardized text fields  
+- Handled missing values appropriately  
+- Converted ratings into numeric format  
 - Created calculated fields:
-  - **Sentiment** (Positive / Neutral / Negative)  
-  - **Average Rating**  
-  - **Feedback Category**  
+  - **Satisfaction Level** (Low / Medium / High)  
+  - **Response Flag** (Resolved vs Pending)  
+  - **Average Rating KPI**  
 
 ---
 
 ## 📊 Dashboard Features
-- 📌 **Overall Average Rating**
-- 📌 **Department-wise Performance**
-- 📌 **Sentiment Distribution**
-- 📌 **Region-wise Feedback Analysis**
-- 📌 **Interactive Slicers for filtering**
+- 📌 **Average Customer Rating**  
+- 📌 **Total Feedback Count**  
+- 📌 **Resolved vs Pending Cases**  
+- 📌 **Feedback Category Distribution (Pie Chart)**  
+- 📌 **Rating Analysis (Bar Chart)**  
+- 📌 **Trend Analysis Over Time (Line Chart)**  
+- 📌 **Interactive Filters using Slicers**  
 
 ---
 
 ## 📈 Key Insights
-- Identified departments with **low satisfaction levels**
-- Highlighted areas requiring **service improvements**
-- Analyzed sentiment trends across regions
-- Provided insights to enhance **customer experience**
+- Identified **areas with low customer satisfaction**  
+- Highlighted **categories with the highest complaints**  
+- Tracked **improvement trends in service quality**  
+- Detected **pending responses requiring attention**  
+- Enabled better decision-making for **customer experience improvement**  
 
 ---
 
 ## 🖼️ Dashboard Preview
 ![Customer Feedback Dashboard](screenshot.png)
 
+> 📌 Upload your dashboard screenshot in the repository and name it `screenshot.png`
+
 ---
 
 ## 🚀 How to Use
 1. Download the Excel file  
-2. Open it in Microsoft Excel  
-3. Click **Data → Refresh All**  
-4. Use slicers to explore insights  
+2. Open in Microsoft Excel  
+3. Go to **Data → Refresh All**  
+4. Use slicers to explore insights interactively  
 
 ---
 
@@ -86,16 +94,18 @@ The dataset includes:
 
 ## 💡 Future Enhancements
 - Power BI dashboard version  
-- Text analytics using NLP  
-- Real-time feedback tracking  
-- Predictive satisfaction modeling  
+- Sentiment analysis on customer comments  
+- Automated feedback classification  
+- Real-time feedback tracking system  
 
 ---
 
 ## 👩‍💻 Author
-**Tejshree**
+**Tejshree**  
+🔗 LinkedIn: https://www.linkedin.com/in/tejshree-t  
+🔗 GitHub: https://github.com/officialtejshree01-lgtm  
 
 ---
 
 ## ⭐ Support
-If you like this project, give it a ⭐ on GitHub!
+If you like this project, consider giving it a ⭐ on GitHub!
