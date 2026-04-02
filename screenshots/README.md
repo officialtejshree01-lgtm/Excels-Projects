@@ -56,7 +56,7 @@ A dashboard focused on managing inventory levels, tracking stock movement, and i
 ---
 
 ## 🖼️ Dashboard Screenshots
-![screenshot](screenshot.png)
+![screenshots](screenshot.png)
 
 > 📌 This repository contains screenshots of all the above Excel dashboards.
 
