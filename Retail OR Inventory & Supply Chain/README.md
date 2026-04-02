@@ -1,17 +1,17 @@
 # 📦 Retail Store Inventory Management (Excel Dashboard)
 
 ## 📌 Project Overview
-This project is an **Excel-based Inventory Management Dashboard** developed for a **Retail / Inventory & Supply Chain company**.  
-It helps track product stock levels, identify low-stock items, monitor inventory value, and support efficient restocking decisions.
+This project is an **Excel-based Inventory Management Dashboard** developed for the **Retail / Inventory & Supply Chain domain**.  
+It enables efficient tracking of stock levels, monitoring inventory movement, identifying low-stock items, and improving overall inventory control for better business decision-making.
 
 ---
 
 ## 🎯 Objectives
-- Track **product inventory levels**
-- Identify **low stock and out-of-stock items**
-- Monitor **category-wise inventory value**
-- Analyze **supplier and store performance**
-- Automate **reorder alerts and stock updates**
+- Track **product inventory levels** in real time  
+- Identify **low stock and out-of-stock items**  
+- Monitor **inventory movement (inflow & outflow)**  
+- Analyze **stock distribution by category**  
+- Improve **inventory planning and supply chain efficiency**  
 
 ---
 
@@ -20,54 +20,61 @@ It helps track product stock levels, identify low-stock items, monitor inventory
 - Data Cleaning & Transformation  
 - Pivot Tables & Pivot Charts  
 - Conditional Formatting  
-- Excel Formulas (IF, COUNTIF, SUM, XLOOKUP)  
-- Dashboard Design & KPI Metrics  
+- Excel Functions (IF, SUMIF, COUNTIF, XLOOKUP, etc.)  
+- Dashboard Design & Data Visualization  
 
 ---
 
 ## 📂 Dataset Description
 The dataset includes:
-- **Product Details** → Product name, category  
-- **Stock Information** → Quantity in stock, reorder level  
-- **Supplier Data** → Supplier names  
-- **Store Locations** → Inventory distribution  
-- **Cost Data** → Unit cost and total stock value  
+- **Product ID** → Unique product identifier  
+- **Product Name** → Item description  
+- **Category** → Product category (Electronics, Clothing, Grocery, etc.)  
+- **Stock Quantity** → Current inventory level  
+- **Reorder Level** → Minimum stock threshold  
+- **Supplier Name** → Vendor details  
+- **Purchase Date** → Stock entry date  
+- **Sales Quantity** → Units sold  
+- **Stock Status** → In Stock / Low Stock / Out of Stock  
 
 ---
 
 ## 🔄 Data Processing Steps
-- Removed duplicates using **Product ID**
-- Cleaned Product Name, Category, and Supplier fields
-- Handled missing values (replaced with "Unknown")
-- Converted numeric fields (Stock, Cost)
-- Created calculated columns:
-  - **Total Value (₹)** = Quantity × Unit Cost  
-  - **Stock Status** (Low Stock / In Stock / Out of Stock)  
-  - **Reorder Flag**  
+- Removed duplicate records using **Product ID**  
+- Cleaned and standardized product/category names  
+- Handled missing values appropriately  
+- Converted numerical columns into proper format  
+- Created calculated fields:
+  - **Stock Status** = Based on stock vs reorder level  
+  - **Inventory Turnover Indicator**  
+  - **Low Stock Flag** for alert tracking  
 
 ---
 
 ## 📊 Dashboard Features
-- 📌 **Total Inventory Value (₹)**
-- 📌 **Low Stock & Out-of-Stock Alerts**
-- 📌 **Category-wise Stock Value (Bar Chart)**
-- 📌 **Supplier Contribution (Pie Chart)**
-- 📌 **Restock Trend Analysis (Line Chart)**
-- 📌 **Interactive Slicers (Category, Supplier, Store)**
+- 📌 **Total Products in Inventory**  
+- 📌 **Total Stock Quantity**  
+- 📌 **Low Stock & Out-of-Stock Indicators**  
+- 📌 **Category-wise Inventory Distribution (Pie Chart)**  
+- 📌 **Stock Level Analysis (Bar Chart)**  
+- 📌 **Inventory Movement Trends (Line Chart)**  
+- 📌 **Interactive Filters using Slicers**  
 
 ---
 
 ## 📈 Key Insights
-- Identified products that require **urgent restocking**
-- Highlighted **top-performing categories** by stock value
-- Analyzed **supplier contribution to inventory**
-- Detected **overstock and understock situations**
-- Enabled better **inventory planning and cost control**
+- Identified **products frequently running low on stock**  
+- Highlighted **categories with high inventory consumption**  
+- Detected **slow-moving and fast-moving items**  
+- Improved **stock replenishment planning**  
+- Supported better **inventory and supply chain decisions**  
 
 ---
 
 ## 🖼️ Dashboard Preview
 ![Inventory Dashboard](screenshot.png)
+
+> 📌 Upload your dashboard screenshot in the repository and name it `screenshot.png`
 
 ---
 
@@ -75,7 +82,7 @@ The dataset includes:
 1. Download the Excel file  
 2. Open in Microsoft Excel  
 3. Click **Data → Refresh All**  
-4. Use slicers to filter and explore insights  
+4. Use slicers to explore and filter insights  
 
 ---
 
@@ -88,16 +95,18 @@ The dataset includes:
 
 ## 💡 Future Enhancements
 - Power BI interactive dashboard  
-- Automated restock alerts  
-- Supplier performance scoring  
-- Inventory forecasting model  
+- Automated stock alerts for low inventory  
+- Demand forecasting model  
+- Supplier performance analysis  
 
 ---
 
 ## 👩‍💻 Author
-**Tejshree**
+**Tejshree T**  
+🔗 LinkedIn: https://www.linkedin.com/in/tejshree-t  
+🔗 GitHub: https://github.com/officialtejshree01-lgtm  
 
 ---
 
 ## ⭐ Support
-If you like this project, give it a ⭐ on GitHub!
+If you like this project, consider giving it a ⭐ on GitHub!
