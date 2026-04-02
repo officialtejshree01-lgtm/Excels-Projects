@@ -103,6 +103,7 @@ The dataset includes:
 **Tejshree**  
 🔗 LinkedIn: https://www.linkedin.com/in/tejshree-t  
 🔗 GitHub: https://github.com/officialtejshree01-lgtm  
+🔗 Email: *official.tejshree01@gmail.com*  
 
 ---
 
