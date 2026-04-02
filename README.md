@@ -93,7 +93,7 @@ An Excel dashboard focused on managing inventory levels, tracking stock movement
 ---
 
 ## 👩‍💻 Author
-**Tejshree T**  
+**Tejshree**  
 🔗 Email: *official.tejshree01@gmail.com*  
 🔗 LinkedIn: https://www.linkedin.com/in/tejshree-t  
 🔗 GitHub: https://github.com/officialtejshree01-lgtm  
