@@ -74,8 +74,6 @@ The dataset includes:
 ## 🖼️ Dashboard Preview
 ![Inventory Dashboard](screenshot.png)
 
-> 📌 Upload your dashboard screenshot in the repository and name it `screenshot.png`
-
 ---
 
 ## 🚀 How to Use
@@ -103,6 +101,7 @@ The dataset includes:
 
 ## 👩‍💻 Author
 **Tejshree T**  
+🔗 Email: *official.tejshree01@gmail.com*  
 🔗 LinkedIn: https://www.linkedin.com/in/tejshree-t  
 🔗 GitHub: https://github.com/officialtejshree01-lgtm  
 
